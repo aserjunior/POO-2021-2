@@ -14,4 +14,4 @@ for (let i = 0; i < 3; i++) {
 
 
 
-//E impresso o indice de cada estado.
+//E impresso o indice de cada estado de acordo com o enum criado.
