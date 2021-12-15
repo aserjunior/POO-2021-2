@@ -1,6 +1,6 @@
 //Questão 01
 
-/*class Calculadora {
+class Calculadora {
     private operando1 : number;
     private operando2 : number;
 
@@ -26,7 +26,7 @@ let a : Calculadora = new Calculadora(10,20);
 console.log(a.soma())
 //a.operando1  (privado)
 //a.operando2  (privado)
-*/
+
 
 //Questão 02
 
